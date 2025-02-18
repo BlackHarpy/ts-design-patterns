@@ -1,2 +1,2 @@
-# ts-design-patters
+# ts-design-patterns
 TypeScript practice
