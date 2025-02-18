@@ -1,0 +1,35 @@
+{
+  "name": "ts-design-patterns",
+  "version": "1.0.0",
+  "description": "Revisiting TypeScript practice",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackHarpy/ts-design-patterns.git"
+  },
+  "author": "Maria C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackHarpy/ts-design-patterns/issues"
+  },
+  "homepage": "https://github.com/BlackHarpy/ts-design-patterns#readme",
+  "devDependencies": {
+    "@types/node": "22.13.4",
+    "@types/react": "19.0.10",
+    "eslint": "9.20.1",
+    "eslint-config-next": "15.1.7",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "next": "^15.1.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
