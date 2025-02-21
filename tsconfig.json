@@ -21,6 +21,7 @@
     "outDir": "./dist",
     "rootDir": "./src",
     "incremental": true,
+    "experimentalDecorators": true,
     "plugins": [
       {
         "name": "next"
