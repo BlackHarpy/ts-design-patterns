@@ -1,3 +1,4 @@
+import { Id } from './types';
 
 interface Ability {
   id: Id, // Can accept number or string

@@ -19,3 +19,7 @@ const newBeast = createCharacter("beast") as Beast;
 // Alternative syntax: We know this will only return
 // a Human type object
 const newHuman = <Human>createCharacter("player");
+
+export function rollDice(sides: number): number {
+  return Math.floor(Math.random() * sides) + 1;
+}
